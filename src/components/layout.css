@@ -342,13 +342,13 @@ section .grid .grid__item:first-of-type {
 .sprite_1 {
 	width: 100%;
 	padding-bottom: 78.5%;
-	background: url("https://stage65.kelloggsawayfromhome.com/content/dam/kelloggsspecialitychannel/incogmeato/flat_sprite_new.jpg") no-repeat 0 0%;
+	background: url("https://www.kelloggsawayfromhome.com/content/dam/kelloggsspecialitychannel/incogmeato/flat_sprite_new.jpg") no-repeat 0 0%;
 	background-size: cover !important
 }
 
 @media(max-width: 600px) {
 	.sprite_1 {
-		background: url("https://stage65.kelloggsawayfromhome.com/content/dam/kelloggsspecialitychannel/incogmeato/flat_sprite_all.jpg") no-repeat;
+		background: url("https://www.kelloggsawayfromhome.com/content/dam/kelloggsspecialitychannel/incogmeato/flat_sprite_all.jpg") no-repeat;
 		animation: sprite 3s steps(29) infinite;
 		margin-top: 15px;
 		background-size: cover !important
@@ -362,7 +362,7 @@ section .grid .grid__item:first-of-type {
 
 @media(max-width: 600px) {
 	.sprite_1:hover {
-		background: url("https://stage65.kelloggsawayfromhome.com/content/dam/kelloggsspecialitychannel/incogmeato/flat_sprite_all.jpg") no-repeat;
+		background: url("https://www.kelloggsawayfromhome.com/content/dam/kelloggsspecialitychannel/incogmeato/flat_sprite_all.jpg") no-repeat;
 		animation: sprite 3s steps(29) infinite;
 		margin-top: 15px;
 		background-size: cover !important
@@ -372,7 +372,7 @@ section .grid .grid__item:first-of-type {
 .sprite_2 {
 	width: 100%;
 	padding-bottom: 78.5%;
-	background: url("https://stage65.kelloggsawayfromhome.com/content/dam/kelloggsspecialitychannel/incogmeato/flat_sprite_cooks.jpg") no-repeat 0 0%;
+	background: url("https://www.kelloggsawayfromhome.com/content/dam/kelloggsspecialitychannel/incogmeato/flat_sprite_cooks.jpg") no-repeat 0 0%;
 	background-size: cover !important
 }
 
@@ -386,7 +386,7 @@ section .grid .grid__item:first-of-type {
 .sprite_3 {
 	width: 100%;
 	padding-bottom: 78.5%;
-	background: url("https://stage65.kelloggsawayfromhome.com/content/dam/kelloggsspecialitychannel/incogmeato/flat_sprite_tastes.jpg") no-repeat 0 0%;
+	background: url("https://www.kelloggsawayfromhome.com/content/dam/kelloggsspecialitychannel/incogmeato/flat_sprite_tastes.jpg") no-repeat 0 0%;
 	background-size: cover !important
 }
 
@@ -398,7 +398,7 @@ section .grid .grid__item:first-of-type {
 .sprite_carousel_1 {
 	width: 100%;
 	padding-bottom: 152.7272727273%;
-	background: url("https://stage65.kelloggsawayfromhome.com/content/dam/kelloggsspecialitychannel/incogmeato/carousel_1_sprite.jpg") no-repeat;
+	background: url("https://www.kelloggsawayfromhome.com/content/dam/kelloggsspecialitychannel/incogmeato/carousel_1_sprite.jpg") no-repeat;
 	background-size: cover !important
 }
 
@@ -416,7 +416,7 @@ section .grid .grid__item:first-of-type {
 .sprite_carousel_2 {
 	width: 100%;
 	padding-bottom: 152.7272727273%;
-	background: url("https://stage65.kelloggsawayfromhome.com/content/dam/kelloggsspecialitychannel/incogmeato/carousel_2_sprite.jpg") no-repeat 0 0%;
+	background: url("https://www.kelloggsawayfromhome.com/content/dam/kelloggsspecialitychannel/incogmeato/carousel_2_sprite.jpg") no-repeat 0 0%;
 	background-size: cover !important
 }
 
@@ -434,7 +434,7 @@ section .grid .grid__item:first-of-type {
 .sprite_carousel_3 {
 	width: 100%;
 	padding-bottom: 152.7272727273%;
-	background: url("https://stage65.kelloggsawayfromhome.com/content/dam/kelloggsspecialitychannel/incogmeato/carousel_3_sprite.jpg") no-repeat 0 0%;
+	background: url("https://www.kelloggsawayfromhome.com/content/dam/kelloggsspecialitychannel/incogmeato/carousel_3_sprite.jpg") no-repeat 0 0%;
 	background-size: cover !important
 }
 
@@ -452,7 +452,7 @@ section .grid .grid__item:first-of-type {
 .sprite_carousel_4 {
 	width: 100%;
 	padding-bottom: 152.7272727273%;
-	background: url("https://stage65.kelloggsawayfromhome.com/content/dam/kelloggsspecialitychannel/incogmeato/carousel_4_sprite.jpg") no-repeat 0 0%;
+	background: url("https://www.kelloggsawayfromhome.com/content/dam/kelloggsspecialitychannel/incogmeato/carousel_4_sprite.jpg") no-repeat 0 0%;
 	background-size: cover !important
 }
 
@@ -496,7 +496,7 @@ section .grid .grid__item:first-of-type {
 }
 
 .textured_bg {
-	background: url("https://stage65.kelloggsawayfromhome.com/content/dam/kelloggsspecialitychannel/incogmeato/textured_bg.jpg") no-repeat;
+	background: url("https://www.kelloggsawayfromhome.com/content/dam/kelloggsspecialitychannel/incogmeato/textured_bg.jpg") no-repeat;
 	background-size: cover;
 	margin-bottom: 40px
 }
@@ -725,7 +725,7 @@ section .grid .grid__item:first-of-type {
 	bottom: 0;
 	left: 0;
 	padding: 10px 30px;
-	background: url("https://stage65.kelloggsawayfromhome.com/content/dam/kelloggsspecialitychannel/incogmeato/overlay.svg");
+	background: url("https://www.kelloggsawayfromhome.com/content/dam/kelloggsspecialitychannel/incogmeato/overlay.svg");
 	background-repeat: no-repeat;
 	background-size: cover;
 	color: #fff;
@@ -739,7 +739,7 @@ section .grid .grid__item:first-of-type {
 	position: absolute;
 	bottom: 0;
 	left: 0;
-	background: url("https://stage65.kelloggsawayfromhome.com/content/dam/kelloggsspecialitychannel/incogmeato/overlay.svg");
+	background: url("https://www.kelloggsawayfromhome.com/content/dam/kelloggsspecialitychannel/incogmeato/overlay.svg");
 	background-repeat: no-repeat;
 	background-size: cover;
 	color: #fff;
@@ -1210,12 +1210,12 @@ input[type=submit]#___gatsbySubmit {
 	width: 153px;
 	text-align: center;
 	padding: 2px 0;
-	background: url("https://stage65.kelloggsawayfromhome.com/content/dam/kelloggsspecialitychannel/incogmeato/button.png");
+	background: url("https://www.kelloggsawayfromhome.com/content/dam/kelloggsspecialitychannel/incogmeato/button.png");
 	cursor: pointer
 }
 
 input[type=submit]#___gatsbySubmit:disabled {
-	background: url("https://stage65.kelloggsawayfromhome.com/content/dam/kelloggsspecialitychannel/incogmeato/button_disabled.png");
+	background: url("https://www.kelloggsawayfromhome.com/content/dam/kelloggsspecialitychannel/incogmeato/button_disabled.png");
 	cursor: default
 }
 

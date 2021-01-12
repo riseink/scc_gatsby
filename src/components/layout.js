@@ -66,13 +66,13 @@ const Layout = ({ children }) => {
       </div>
       <div className="grid__item textured_bg relative targetCow animate_me animated">
          <div id="target_cow_1" className="cow_container right ">
-            <img src="https://stage65.kelloggsawayfromhome.com/content/dam/kelloggsspecialitychannel/incogmeato/cow_1.png" alt="Incogmeato Cow" className="img-responsive"></img>
+            <img src="https://www.kelloggsawayfromhome.com/content/dam/kelloggsspecialitychannel/incogmeato/cow_1.png" alt="Incogmeato Cow" className="img-responsive"></img>
          </div>
          <div className="incog_wrapper center">
             <div className="video_placeholder">
                <a className="venobox vbox-item" data-href="#mason-youtube" data-type="inline" data-gall="gall-frame" >
-               <img src="https://stage65.kelloggsawayfromhome.com/content/dam/kelloggsspecialitychannel/incogmeato/two_burgers.jpg" alt="Mason Hereford holding 2 burgers" className="img-responsive"></img>
-               <img src="https://stage65.kelloggsawayfromhome.com/content/dam/kelloggsspecialitychannel/incogmeato/play_icon.png" alt="play_icon" className="play_logo"></img></a>
+               <img src="https://www.kelloggsawayfromhome.com/content/dam/kelloggsspecialitychannel/incogmeato/two_burgers.jpg" alt="Mason Hereford holding 2 burgers" className="img-responsive"></img>
+               <img src="https://www.kelloggsawayfromhome.com/content/dam/kelloggsspecialitychannel/incogmeato/play_icon.png" alt="play_icon" className="play_logo"></img></a>
             </div>
             <h2 className="color_green">CHEF MASON HEREFORD GOES INCOGMEATO</h2>
             <p>Award-winning chef Mason Hereford, of Turkey and The Wolf, is a meat guy. So yeah, his sandwiches are, “pretty much the opposite of plant-friendly.” That is, until Incogmeato completely lit up his kitchen and put a crave-worthy, plant-based spin on his menu.</p>
@@ -81,7 +81,7 @@ const Layout = ({ children }) => {
       <div className="grid__item">
          <div className="full_bleed_flex start fullBleedAnimate animate_me animated">
             <div className="image_container">
-               <img src="https://stage65.kelloggsawayfromhome.com/content/dam/kelloggsspecialitychannel/incogmeato/burger_1.jpg" alt="Incogmeato Burger Patty" className="img-responsive"></img>
+               <img src="https://www.kelloggsawayfromhome.com/content/dam/kelloggsspecialitychannel/incogmeato/burger_1.jpg" alt="Incogmeato Burger Patty" className="img-responsive"></img>
             </div>
             <div className="copy_container incogmeato_product pullLeft">
                <a className="incogmeato_product_headline" title="Incogmeato Burger Patty" href="/content/NorthAmerica/KelloggsSpecialityChannel/en_US/products/incogmeato-burger-patties.html/028989103314" target="_blank">
@@ -90,7 +90,7 @@ const Layout = ({ children }) => {
                <p>Got a beef with plant-based proteins? Not for long. Because these new juicy Incogmeato Burger Patties will brown, sear and wow their way onto your menu.</p>
                <a className="incogmeato_product_button incogmeto_button" title="Incogmeato Burger Patty" href="/content/NorthAmerica/KelloggsSpecialityChannel/en_US/products/incogmeato-burger-patties.html/028989103314" target="_blank">
                <span>view product</span>
-               <img src="https://stage65.kelloggsawayfromhome.com/content/dam/kelloggsspecialitychannel/incogmeato/button.png" alt="Incogmeato Burger Patty Button"></img>
+               <img src="https://www.kelloggsawayfromhome.com/content/dam/kelloggsspecialitychannel/incogmeato/button.png" alt="Incogmeato Burger Patty Button"></img>
                </a>
             </div>
          </div>
@@ -99,7 +99,7 @@ const Layout = ({ children }) => {
          </div>
          <div className="full_bleed_flex end fullBleedAnimate animate_me animated">
             <div className="image_container">
-               <img src="https://stage65.kelloggsawayfromhome.com/content/dam/kelloggsspecialitychannel/incogmeato/burger_2.jpg" alt="Incogmeato Breakfast Sausage Patty" className="img-responsive"></img>
+               <img src="https://www.kelloggsawayfromhome.com/content/dam/kelloggsspecialitychannel/incogmeato/burger_2.jpg" alt="Incogmeato Breakfast Sausage Patty" className="img-responsive"></img>
             </div>
             <div className="copy_container incogmeato_product text-align-right pushLeft">
                <a className="incogmeato_product_headline" title="Incogmeato Breakfast Sausage Patty" href="/content/NorthAmerica/KelloggsSpecialityChannel/en_US/products/incogmeato-breakfast-sausage-patties.html" target="_blank">
@@ -108,14 +108,14 @@ const Layout = ({ children }) => {
                <p>Think you can’t get all that incredible pork sausage taste without the pork? Hogwash. These new Incogmeato Breakfast Sausage Patties hit on every savory, delicious, mouthwatering pork flavor.</p>
                <a className="incogmeato_product_button incogmeto_button" title="Incogmeato Breakfast Sausage Patty" href="/content/NorthAmerica/KelloggsSpecialityChannel/en_US/products/incogmeato-breakfast-sausage-patties.html" target="_blank">
                <span>view product</span>
-               <img src="https://stage65.kelloggsawayfromhome.com/content/dam/kelloggsspecialitychannel/incogmeato/button.png" alt="Incogmeato Breakfast Sausage Patty Button"></img>
+               <img src="https://www.kelloggsawayfromhome.com/content/dam/kelloggsspecialitychannel/incogmeato/button.png" alt="Incogmeato Breakfast Sausage Patty Button"></img>
                </a>
             </div>
          </div>
       </div>
       <div className=" relative targetCow animate_me animated">
          <div id="target_cow_2" className="cow_container left ">
-            <img src="https://stage65.kelloggsawayfromhome.com/content/dam/kelloggsspecialitychannel/incogmeato/cow_2.png" alt="xxx" className="img-responsive"></img>
+            <img src="https://www.kelloggsawayfromhome.com/content/dam/kelloggsspecialitychannel/incogmeato/cow_2.png" alt="xxx" className="img-responsive"></img>
          </div>
       </div>
 
