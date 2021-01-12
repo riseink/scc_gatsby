@@ -223,6 +223,12 @@ section .grid .grid__item:first-of-type {
 	flex-wrap: wrap
 }
 
+@media(min-width: 768px) {
+
+.flex_container.nowrap {
+  flex-wrap: nowrap;
+}
+}
 .flex_center_vertical {
 	align-items: center
 }
